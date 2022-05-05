@@ -1,0 +1,22 @@
+{
+  "name": "factorial-feature",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenschwab/factorial-feature.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenschwab/factorial-feature/issues"
+  },
+  "homepage": "https://github.com/stevenschwab/factorial-feature#readme",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}
